@@ -1,5 +1,5 @@
 # Bay Wheels Bike Sharing System Usage Pattern 2018
-## by Michelle Bleyl
+## 
 
 
 ## Dataset
